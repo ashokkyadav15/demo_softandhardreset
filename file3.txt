@@ -1,0 +1,2 @@
+This is file3.txt for testing purpose
+file3 for soft hard reset
